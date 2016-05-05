@@ -1,4 +1,4 @@
 # reactHelloWorld
-<b>to run the app:</b><br>
+<b>to run this app:</b><br>
 npm install <br>
 npm start
